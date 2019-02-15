@@ -75,39 +75,44 @@
 		],
 		"portrait": [
 			{
-				"name": "Default~iphone.png",
+				"name": "Default.png",
 				"width": 320,
 				"height": 480
 			},
 			{
-				"name": "Default@2x~iphone.png",
+				"name": "Default@2x.png",
 				"width": 640,
 				"height": 960
 			},
 			{
-				"name": "Default-Portrait~ipad.png",
-				"width": 768,
-				"height": 1024
-			},
-			{
-				"name": "Default-Portrait@2x~ipad.png",
-				"width": 1536,
-				"height": 2048
-			},
-			{
-				"name": "Default-568h@2x~iphone.png",
+				"name": "Default-568h@2x.png",
 				"width": 640,
 				"height": 1136
 			},
 			{
-				"name": "Default-667h.png",
+				"name": "Default-667h@2x.png",
 				"width": 750,
 				"height": 1334
 			},
 			{
-				"name": "Default-736h.png",
+				"name": "Default-736h@3x.png",
 				"width": 1242,
 				"height": 2208
+			},
+			{
+				"name": "Default-Portrait.png",
+				"width": 768,
+				"height": 1024
+			},
+			{
+				"name": "Default-Portrait@2x.png",
+				"width": 1536,
+				"height": 2048
+			},
+			{
+				"name": "Default-1100-Portrait-2436h@3x.png",
+				"width": 1125,
+				"height": 2436
 			},
 			{
 				"name": "Default-Portrait@~ipadpro.png",
@@ -117,19 +122,34 @@
 		],
 		"landscape": [
 			{
-				"name": "Default-Landscape~ipad.png",
+				"name": "Default-Landscape.png",
 				"width": 1024,
 				"height": 768
 			},
 			{
-				"name": "Default-Landscape@2x~ipad.png",
+				"name": "Default-Landscape@2x.png",
 				"width": 2048,
 				"height": 1536
 			},
 			{
-				"name": "Default-Landscape-736h.png",
+				"name": "Default-736h-Landscape@3x.png",
 				"width": 2208,
 				"height": 1242
+			},
+			{
+				"name": "Default-Landscape-568h@2x.png",
+				"width": 1136,
+				"height": 640
+			},
+			{
+				"name": "Default-Landscape-667h@2x.png",
+				"width": 1334,
+				"height": 750
+			},
+			{
+				"name": "Default-1100-Landscape-2436h@3x.png",
+				"width": 2436,
+				"height": 1125
 			},
 			{
 				"name": "Default-Landscape@~ipadpro.png",
